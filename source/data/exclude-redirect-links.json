@@ -1,0 +1,382 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/personal-income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/tax-rates-brackets.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/tax-rates-brackets.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/who-should-file-tax.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/personal-income-tax/who-should-file-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/how-file.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/personal-income-tax/how-file.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/after-you-file.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/personal-income-tax/after-you-file.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/help-others.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/personal-income-tax/help-others.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/reporting-income.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/reporting-income.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/educational-programs.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/educational-programs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/changes-your-taxes-when-you-retire-turn-65-years-old.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/segments/changes-your-taxes-when-you-retire-turn-65-years-old.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/students.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/segments/students.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/students/new-page-1789408020130.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/segments/students/new-page-1789408020130.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/business-or-professional-income.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/business-or-professional-income.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/resources-for-small-and-medium-businesses.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/resources-for-small-and-medium-businesses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/trust-income-tax.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/trust-income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-overview.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-overview.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/trust-administrators/t3-return.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-slip.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/trust-administrators/t3-slip.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/types-trusts.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/trust-administrators/types-trusts.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/specified-investment-flow-through-sift-trust-income-distribution-tax.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/trust-administrators/specified-investment-flow-through-sift-trust-income-distribution-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/trust-income-tax/retirement-compensation-arrangements-guide.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/trust-income-tax/retirement-compensation-arrangements-guide.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-how-apply.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/trust-administrators/t3-return/application-trust-account-number-how-apply.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/t5013-partnership-information-return-filing-requirements.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/t5013-partnership-information-return-filing-requirements.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/businesses/topics/sole-proprietorships-partnerships/business-expenses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents-tax.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents-tax/in-outside-canada.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents-tax/in-outside-canada.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/disposing-acquiring-certain-canadian-property.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents/information-been-moved/disposing-acquiring-certain-canadian-property.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents-tax/how-canada-revenue-agency-works-tax-authorities.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents-tax/how-canada-revenue-agency-works-tax-authorities.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/taxes-brochure.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/taxes-brochure.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/represent-deceased.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/represent-deceased.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/notify-death-date.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/notify-death-date.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/prepare-returns.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/prepare-returns.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/clearance-certificate.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died/clearance-certificate.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/special-elections.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/e-services/digital-services-businesses/corporation-internet-filing/special-elections.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/keeping-records.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/businesses/topics/keeping-records.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/transfer-pricing.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents/information-been-moved/transfer-pricing.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/businesses-international-non-resident-taxes/income-tax-information-non-resident-corporations.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents/businesses-international-non-resident-taxes/income-tax-information-non-resident-corporations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/payments-non-residents.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents/payments-non-residents.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/businesses-international-non-resident-taxes/country-reporting.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/international-non-residents/businesses-international-non-resident-taxes/country-reporting.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/corporation-income-tax.html",
+    "destination": "/test-cop-project-2026/en/services/taxes/income-tax/corporation-income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/businesses/topics/corporations/business-tax-credits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-payments.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-payments.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/foreign-spin-offs.html",
+    "destination": "/test-cop-project-2026/en/revenue-agency/services/tax/businesses/topics/foreign-spin-offs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/taux-imposition-tranches-revenu.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/taux-imposition-tranches-revenu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/qui-produire-declaration-revenus.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/qui-produire-declaration-revenus.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/preparez-vous-impots.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/preparez-vous-impots.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/comment-produire.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/comment-produire.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/apres-declaration-revenus.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/apres-declaration-revenus.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/aider-autres.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/aider-autres.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/revenu-personnel/declaration-revenu.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/revenu-personnel/declaration-revenu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/dates-importantes-particuliers.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/sujets/dates-importantes-particuliers.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/programmes-educatifs.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/programmes-educatifs.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/segments/deductions-credits-impot-personnes-handicapees.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/segments/deductions-credits-impot-personnes-handicapees.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/segments/changements-a-vos-impots-quand-vous-prenez-votre-retraite-lorsque-vous-atteignez-65-ans.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/segments/changements-a-vos-impots-quand-vous-prenez-votre-retraite-lorsque-vous-atteignez-65-ans.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/segments/etudiants.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/segments/etudiants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/segments/etudiants/nouvelle-page-1789408020130.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/segments/etudiants/nouvelle-page-1789408020130.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/revenus-dentreprise-ou-de-profession-liberale.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/revenus-dentreprise-ou-de-profession-liberale.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/ressources-intention-des-petites-et-moyennes-entreprises.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/ressources-intention-des-petites-et-moyennes-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-fiducies.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-fiducies.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3/demande-numero-compte-feducie-apercu.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3/demande-numero-compte-feducie-apercu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/feuillet-t3.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/feuillet-t3.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/genres-fiducies.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/genres-fiducies.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/impot-revenu-distributions-fiducies-intermediaires-placement-determinees-fipd.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/impot-revenu-distributions-fiducies-intermediaires-placement-determinees-fipd.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-fiducies/guide-conventions-retraite.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-fiducies/guide-conventions-retraite.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3/demande-numero-compte-feducie-comment-faire-demande.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/administrateurs-fiducies/declaration-t3/demande-numero-compte-feducie-comment-faire-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/declarations-renseignements-societes-personnes-t5013-exigences-concernant-production.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/declarations-renseignements-societes-personnes-t5013-exigences-concernant-production.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/depenses-entreprise.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/entreprise-individuelle-societe-personnes/depenses-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/international-non-residents-impot.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/international-non-residents-impot.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/international-non-residents-impot/canada-etranger.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/international-non-residents-impot/canada-etranger.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/impot-international-non-residents/renseignements-ont-deplaces/disposition-acquisition-certains-biens-canadiens.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/impot-international-non-residents/renseignements-ont-deplaces/disposition-acquisition-certains-biens-canadiens.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/international-non-residents-impot/comment-agence-revenue-canada-collabore-autres-autorites-fiscales.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/international-non-residents-impot/comment-agence-revenue-canada-collabore-autres-autorites-fiscales.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/impots-depliant.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/impots-depliant.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/representer-personne-decedee.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/representer-personne-decedee.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/informer-date-deces.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/informer-date-deces.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/preparer-declarations.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee/preparer-declarations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/election-speciales.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/services-electroniques/services-numeriques-entreprises/transmission-internet-declarations-societes/election-speciales.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tenue-registres-comptables.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/tenue-registres-comptables.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/impot-international-non-residents/renseignements-ont-deplaces/prix-transfert.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/impot-international-non-residents/renseignements-ont-deplaces/prix-transfert.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/impot-international-non-residents/entreprises-impot-international-non-residents/renseignements-fiscaux-a-intention-societes-non-residentes.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/impot-international-non-residents/entreprises-impot-international-non-residents/renseignements-fiscaux-a-intention-societes-non-residentes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/impot-international-non-residents/paiements-faits-a-non-residents.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/impot-international-non-residents/paiements-faits-a-non-residents.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/impot-international-non-residents/entreprises-impot-international-non-residents/declaration-pays.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/impot-international-non-residents/entreprises-impot-international-non-residents/declaration-pays.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-societe.html",
+    "destination": "/test-cop-project-2026/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-societe.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/societes/credits-dimpot-entreprises.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/societes/credits-dimpot-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/societes/paiements-societes.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/societes/paiements-societes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/reorganisation-societe-etrangere-derivation.html",
+    "destination": "/test-cop-project-2026/fr/agence-revenu/services/impot/entreprises/sujets/reorganisation-societe-etrangere-derivation.html"
+  }
+]
